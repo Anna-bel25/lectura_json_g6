@@ -1,0 +1,143 @@
+[
+    {
+      "autor": "Camilo Egas",
+      "titulo": "Mujer Indígena",
+      "fecha_publicacion": "1930-05-20",
+      "descripcion": "Retrato de una mujer indígena ecuatoriana.",
+      "imagen": "https://www.terraecuador.net/revista_108/108_fotos/108_f_notas_india.jpg"
+    },
+    {
+      "autor": "Oswaldo Guayasamín",
+      "titulo": "La Edad de la Ira",
+      "fecha_publicacion": "1962-09-15",
+      "descripcion": "Representación de la ira y el sufrimiento humano.",
+      "imagen": "https://www.artviewing.gallery/engine/download/blob/artviewing/h1067/12925/2016/22/JLC_6143.jpg?app=artviewing&class=2572&id=70474&field=98658"
+    },
+    {
+      "autor": "Eduardo Kingman",
+      "titulo": "La Espera",
+      "fecha_publicacion": "1955-03-10",
+      "descripcion": "Pintura que refleja la espera de la vida cotidiana.",
+      "imagen": "https://media.mutualart.com/Images/2009_07/06/0133/509438/2d38c4ed-cd16-45fa-ac0d-7cac88ecfc02_g.Jpeg?w=768"
+    },
+    {
+        "autor": "Guillermo Rivas",
+        "titulo": "Paisaje Andino",
+        "fecha_publicacion": "1978-12-05",
+        "descripcion": "Vista impresionante de los Andes ecuatorianos.",
+        "imagen": "https://artec.ec/images/phocagallery/PINO_%20ROMULO/thumbs/phoca_thumb_l_402798%20Paisaje%20Andino.jpg"
+    },
+    {
+        "autor": "Rocío Cárdenas",
+        "titulo": "Sueños Andinos",
+        "fecha_publicacion": "2013-08-20",
+        "descripcion": "Interpretación artística de la vida en los Andes ecuatorianos.",
+        "imagen": "https://artelista.s3.amazonaws.com/obras/big/6/4/5/5025189955789460.jpg"
+    },
+    {
+        "autor": "Esteban Martínez",
+        "titulo": "Flores de Mi Tierra",
+        "fecha_publicacion": "2008-05-10",
+        "descripcion": "Vibrantes flores locales capturadas en una obra colorida.",
+        "imagen": "https://thumbs.dreamstime.com/b/pintura-al-%C3%B3leo-de-pradera-flores-paisaje-multicolores-color-agua-pintar-estilo-silvestres-coloridas-192450608.jpg"
+    },
+    {
+        "autor": "Ana Paredes",
+        "titulo": "Entre Volcanes",
+        "fecha_publicacion": "2016-11-25",
+        "descripcion": "Paisaje que refleja la majestuosidad de la región entre volcanes.",
+        "imagen": "https://as1.ftcdn.net/v2/jpg/03/25/75/72/1000_F_325757299_wnvOHg5F25XEI47uKhUC4jKziLgcsCwe.jpg"
+    },
+    {
+        "autor": "Andrés Espinosa",
+        "titulo": "Colores de la Amazonía",
+        "fecha_publicacion": "2019-04-03",
+        "descripcion": "Explosión cromática que representa la diversidad amazónica.",
+        "imagen": "https://i0.wp.com/www.paralaje.xyz/wp-content/uploads/2019/12/Gustavo-Toaquiza-scaled.jpg?resize=2560%2C2124&ssl=1"
+    }, 
+    {
+        "autor": "Isabel Mendoza",
+        "titulo": "Retrato de Identidad",
+        "fecha_publicacion": "2006-12-08",
+        "descripcion": "Exploración de la identidad a través de un expresivo retrato.",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/NOT7A5SIVBC6HCGZCOL4W5QTAU.jpg"
+    }, 
+    {
+        "autor": "Fabián Arízaga",
+        "titulo": "Amanecer en Galápagos",
+        "fecha_publicacion": "2015-07-19",
+        "descripcion": "Captura poética del amanecer en las islas Galápagos.",
+        "imagen": "https://www.nanmagazine.com/wp-content/uploads/2019/12/Lobo-sumergidos.jpg"
+    },
+    {
+        "autor": "María Izquierdo",
+        "titulo": "Sueños Surrealistas",
+        "fecha_publicacion": "1995-12-03",
+        "descripcion": "Exploración de mundos oníricos en un estilo surrealista.",
+        "imagen": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNjA0YzllNjY0ZmI3NC5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.qgEFkBup_sJ7krBwjJ5AEQcoihEGotAZJ3XXLIk_XVo.webp"
+    },              
+    {
+        "autor": "Javier Vargas",
+        "titulo": "Ritmo Nocturno",
+        "fecha_publicacion": "2005-07-12",
+        "descripcion": "Paisaje urbano nocturno con una interpretación rítmica.",
+        "imagen": "https://images.joseartgallery.com/50217/conversions/cityscapes-painting-night-city-rhythm-thumb1920.jpg"
+    },
+    {
+        "autor": "Cecilia Zambrano",
+        "titulo": "Expresiones del Alma",
+        "fecha_publicacion": "2010-02-28",
+        "descripcion": "Retrato expresionista que captura emociones profundas.",
+        "imagen": "https://i0.wp.com/gaceta.facmed.unam.mx/wp-content/uploads/2020/04/barroco.jpg?resize=1098%2C640&ssl=1"
+    },
+    {
+        "autor": "Hernán Troya",
+        "titulo": "Abstracción Cósmica",
+        "fecha_publicacion": "1998-11-15",
+        "descripcion": "Viaje abstracto a través de formas cósmicas.",
+        "imagen": "https://thumbs.dreamstime.com/b/pintura-al-%C3%B3leo-abstracto-universo-azul-p%C3%BArpura-como-arte-de-fantas%C3%ADa-cosmos-fondo-con-efecto-giratorio-energ%C3%ADa-c%C3%B3smica-206123603.jpg"
+    },
+    {
+        "autor": "Rocío Cárdenas",
+        "titulo": "Sueños Andinos",
+        "fecha_publicacion": "2013-08-20",
+        "descripcion": "Interpretación artística de la vida en los Andes ecuatorianos.",
+        "imagen": "https://artelista.s3.amazonaws.com/obras/big/8/6/4/6812354849495358.jpg"
+    },
+    {
+        "autor": "Esteban Martínez",
+        "titulo": "Flores de Mi Tierra",
+        "fecha_publicacion": "2008-05-10",
+        "descripcion": "Vibrantes flores locales capturadas en una obra colorida.",
+        "imagen": "https://images.joseartgallery.com/12594/conversions/flower-painting-oil-painting-sunny-flowers-thumb1920.jpg"
+    },
+    {
+        "autor": "Ana Paredes",
+        "titulo": "Entre Volcanes",
+        "fecha_publicacion": "2016-11-25",
+        "descripcion": "Paisaje que refleja la majestuosidad de la región entre volcanes.",
+        "imagen":"https://artelista.s3.amazonaws.com/obras/big/8/4/8/6847783249690341.jpg"
+    },
+    {
+        "autor": "Andrés Espinosa",
+        "titulo": "Colores de la Amazonía",
+        "fecha_publicacion": "2019-04-03",
+        "descripcion": "Explosión cromática que representa la diversidad amazónica.",
+        "imagen": "https://casadelacultura.gob.ec/wp-content/uploads/2021/04/2-foto-morales.jpg"
+    },
+    {
+        "autor": "Isabel Mendoza",
+        "titulo": "Retrato de Identidad",
+        "fecha_publicacion": "2006-12-08",
+        "descripcion": "Exploración de la identidad a través de un expresivo retrato.",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/NOT7A5SIVBC6HCGZCOL4W5QTAU.jpg"
+    },
+    {
+        "autor": "Fabián Arízaga",
+        "titulo": "Amanecer en Galápagos",
+        "fecha_publicacion": "2015-07-19",
+        "descripcion": "Captura poética del amanecer en las islas Galápagos.",
+        "imagen": "https://www.nanmagazine.com/wp-content/uploads/2019/12/Lobo-sumergidos.jpg"
+    }
+  
+  ]
